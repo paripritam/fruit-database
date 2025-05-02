@@ -7,7 +7,7 @@
 1. Jack Turner [@JackTurner123](https://github.com/JackTurner123/fruit-database.git)
 2. Yen Le [@YenLeMIST](https://github.com/YenLeMIST/FruitPrices)
 3. Pariprita Mallavarapu [@paripritam](https://github.com/paripritam/fruit-database/blob/main/README.md)
-4. Princess Asenuga [@PrincessAse] ()
+4. Princess Asenuga [@Princessase](https://github.com/Princessase/Fruit)
 
 ## Dataset Overview
 
